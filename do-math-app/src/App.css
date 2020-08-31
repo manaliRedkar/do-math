@@ -1,0 +1,25 @@
+@import "~semantic-ui-css/semantic.min.css";
+.body{
+  background-color:plum;
+}
+.App {
+  text-align: center;
+  background-color:plum;
+  
+}
+
+.row-entry{
+  display: flex;
+  padding-bottom: 0.5rem;
+
+}
+.Comment, .mq-editable-field {
+  flex: 1;
+  padding-left: 0.5rem;
+
+}
+
+#add{
+  cursor: pointer;
+}
+
